@@ -51,7 +51,7 @@ def test_url():
         pass
 
 if CURL == 'https://www.naver.com':
-    assert 1
+    assert true
 else:
     print('error')
 
